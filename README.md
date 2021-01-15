@@ -5,7 +5,7 @@
 Git & GitHub Udacity Project
 
 ### Description
-Describe what your project is about and what it does
+This project is a Python script that analyzes bikeshare data in a .csv format.
 
 ### Files used
 washington.csv
