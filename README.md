@@ -8,7 +8,10 @@ Git & GitHub Udacity Project
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+washington.csv
+new_york_city.csv
+chicago.csv
+bikeshare.py
 
 ### Credits
 Udacity Programming for Data Science Nanodegree!
