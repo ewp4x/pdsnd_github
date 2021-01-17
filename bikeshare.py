@@ -47,7 +47,7 @@ def get_filters():
     
     return city, month, day
 
-
+#Function to take the user inputs and create final DataFrame to use in statistics
 def load_data(city, month, day):
     #Load the city csv into DataFrame
     df = pd.DataFrame(pd.read_csv(CITY_DATA.get(city)))
