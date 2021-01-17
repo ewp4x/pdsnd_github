@@ -8,6 +8,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december', 'all']
 days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'all']
 
+#Function to take inputs from the user and validate the values
 def get_filters():
     #Grab all inputs of the user
     print('Hello! Let\'s explore some US bikeshare data!')
